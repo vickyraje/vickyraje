@@ -27,14 +27,3 @@ I specialize in designing scalable system architectures, robust APIs, and perfor
 - **Leadership & Process:** Agile/Scrum, Architecture Design, Code Reviews, Team Mentorship
 
 ---
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
